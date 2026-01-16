@@ -6,7 +6,7 @@
 /*   By: gumallet <gumallet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/07 15:45:47 by gumallet          #+#    #+#             */
-/*   Updated: 2025/01/20 15:56:01 by gumallet         ###   ########.fr       */
+/*   Updated: 2026/01/16 16:53:30 by gumallet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,8 +22,8 @@
 
 /* Rendering Macros */
 
-# define WIDTH 1024
-# define HEIGHT 1024
+# define WIDTH 800
+# define HEIGHT 800
 # define MAX_ITER 100
 # define MAX_ITER_JULIA 50
 # define MAX_ITER_SHIP 50
