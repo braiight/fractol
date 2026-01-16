@@ -9,19 +9,19 @@ A fun program where you can explore the wonderful world of fractals.
  - Run `make` at the root of the repository.
  - Run `./fractol <argument>` where `<argument>` can be one of the following:
 
- **Mandelbrot**
- -This will let you visualize the famous Mandelbrot set. you can move around using the `wasd` keys, and zoom in and out using the mouse wheel.
+ `Mandelbrot`
+ - This will let you visualize the famous Mandelbrot set. you can move around using the `wasd` keys, and zoom in and out using the mouse wheel.
 
-**Julia_Dynamic**
+`Julia_Dynamic`
  - Move your mouse around inside the window and watch the Julia sets evolve!
 
-**Julia_Fixed a b**
+`Julia_Fixed a b`
  - This lets you see the Julia set of a specific complex number.
  - `a` and `b` are the real and imaginary values of said complex number.
  - `a` and `b` *must* be decimal numbers between -2 and 2.
  - Move around with the `wasd` keys and zoom in and out with the mouse wheel.
 
-**Ship**
+`Ship`
  - This will let you visualize the Burning Ship fractal.
  - Move around with `wasd` keys and zoom in and out with the mouse wheel.
 
