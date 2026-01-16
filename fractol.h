@@ -22,8 +22,8 @@
 
 /* Rendering Macros */
 
-# define WIDTH 500
-# define HEIGHT 500
+# define WIDTH 1024
+# define HEIGHT 1024
 # define MAX_ITER 100
 # define MAX_ITER_JULIA 50
 # define MAX_ITER_SHIP 50
