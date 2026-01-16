@@ -30,5 +30,5 @@ A fun program where you can explore the wonderful world of fractals.
 
 ## Performance tips
  - You can modify the different rendering macros in the `fractol.h` header file to tune performance.
- - `WIDTH` and `HEIGHT` change the window's size. A bigger window means slower performance. *Note: I didn't implement correct scaling, so please keep `WIDTH` and `HEIGHT` identical to avoid having spread-out/squished fractals.
+ - `WIDTH` and `HEIGHT` change the window's size. A bigger window means slower performance. *Note: I didn't implement correct scaling, so please keep `WIDTH` and `HEIGHT` identical to avoid having spread-out/squished fractals.*
  - `MAX_ITER`, `MAX_ITER_JULIA`, and `MAX_ITER_SHIP` modify the maximum number of iterations before determining if a number is within its set or not. Higher iterations = prettier, more detailed fractals at the cost of performance. I do not recommend going over 200.
